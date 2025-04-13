@@ -1,0 +1,6 @@
+ls
+cd ..
+ls
+gcc main.c
+ls
+gcc main.c
